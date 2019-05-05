@@ -1,22 +1,41 @@
-# FIFA-Career-mod
+#FIFA-Career-mod
+
 board.INI (Removed Sacking)
+
 cmsettings.INI (Fitness disabled, younger regen players, budget 100% goes to user, 100% money carry over to next season, talk to press window 2 days insted of 4)
+
 formsettings.INI (transfer mod)
+
 joboffer.INI (easy job offers, wage multiplier better)
+
 managerai.INI (better 1st 11 selection)
+
 moralesettings.INI
+
 playergrowth.INI (traning growth modifier better)
+
 playervalues.INI (VALUATION chnaged)
+
 scout.INI (cheapier youth scouts, free scout fireing, Low/High age chnaged,average overall changed, youth player modifier changed, youth wage 50$, youth player base transfer budget bigger )
+
 simsettings.INI (removed cards, removed injurys, fatigue lost per games is 0)
+
 tcm_finance_settings.INI (additional wage budget chnaged, ticked prices changed, shirt price chnaged, stadium base value chnaged, travel cost chnaged)
+
 training_drill_attributes_list.INI (changed aattributes for train)
+
 training_progress.INI (added all attributes to train)
+
 trainingevents.INI (max injuryes removed, )
+
 training_result_converter.INI (xp graph chnaged, growth cap chnaged, performance grade modifier chnaged, )
+
 transfer.INI
+
 transfers.INI (CHANCE_SEARCH_TEAM_FOR_PLAYERS changed, )
+
 transferteamdecision.INI (wanted fee chnaged, )
+
 youth_scout.INI
 
 
