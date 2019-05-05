@@ -46,3 +46,14 @@ training_drill_attributes_list.INI
 - Added for players to train balance, acceleration, strength, 
 - Penalty with Keeper chnaged to train, strength, balance, composure, acceleration
 
+
+How to install: 
+ - download frosty mod manager v1.0.5.1 - https://github.com/GalaxyEham/FrostyToolSuite/releases/download/v1.0.5.1/FrostyModManager_v1.0.5.1.rar
+- run Frosty mod manager as administrator
+- copy this encryption key - https://pastebin.com/kfWSjRib
+- Find where you installed your fifa folder, for exemple for me is "D:\Program Files (x86)\Origin Games\FIFA 19" and select Fifa19.exe
+- then import mod and apply mod
+- launch fifa19 and it's done
+
+Here is also video tutorial how to import mods
+ - https://youtu.be/BxGm0RibQZQ
