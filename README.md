@@ -1,5 +1,5 @@
 # FIFA-Career-mod
-board.INI (Removed Sacking)
+board.INI (Removed Sacking) 
 cmsettings.INI (Fitness disabled, younger regen players, budget 100% goes to user, 100% money carry over to next season, talk to press window 2 days insted of 4)
 formsettings.INI (transfer mod)
 joboffer.INI (easy job offers, wage multiplier better)
